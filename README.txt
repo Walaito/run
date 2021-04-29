@@ -1,13 +1,11 @@
 
 TITLE: 
-Run - 100% Fully Responsive Free HTML5 Bootstrap Template
+Run - 100% Fully Responsive 
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+DESIGNED & DEVELOPED by @WT
 
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+Website: https://walaito.github.io/portfolio/
 
 
 CREDITS:
@@ -44,4 +42,3 @@ http://www.owlcarousel.owlgraphic.com/
 
 Demo Images:
 http://unsplash.com
-
